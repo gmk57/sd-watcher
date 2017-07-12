@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SD Watcher</string>
+    <string name="sd_status_detecting">Detecting SD card…</string>
+    <string name="sd_status_present">SD card is available</string>
+    <string name="sd_status_missing">SD card is NOT available</string>
+    <string name="notify_switch">Notify me if SD card is missing</string>
+    <string name="notification_title">SD card is missing!</string>
+    <string name="notification_text">Please check if it\'s inserted</string>
+</resources>
